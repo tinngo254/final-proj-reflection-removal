@@ -28,13 +28,10 @@ GAN
     │
     └─── ckpts 
     │    │  
-    │    └─── pretrain 
-    │    │  
     │    └─── train 
     │
     └─── output
          │  
-         └─── pretrain 
          │  
          └─── train 
 
