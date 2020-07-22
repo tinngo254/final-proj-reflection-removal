@@ -16,15 +16,17 @@ GAN
 │   │
 │   └───real_images
 │   │    │  
-│   │    └─── tranmission
+│   │    └─── tranmission (images without reflection)
 │   │    │  
-│   │    └─── blended
+│   │    └─── blended (images with reflection)
 │   │
 │   └───synthetic_images
 │        │  
-│        └─── tranmission
+│        └─── transmission (originial images without reflection mask)
 │        │  
-│        └─── reflection
+│        └─── synthetic (synthetic images (transmission layer + reflection mask) created from function)
+│        │  
+│        └─── mask (reflection mask after running function)
 │   
 └───logs
     │
@@ -33,7 +35,6 @@ GAN
     │    └─── train 
     │
     └─── output
-         │  
          │  
          └─── train 
 
