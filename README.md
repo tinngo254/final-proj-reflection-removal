@@ -6,6 +6,8 @@ Reference: https://github.com/ceciliavision/perceptual-reflection-removal
 Dataset: 1. [from the ref](https://drive.google.com/drive/folders/1NYGL3wQ2pRkwfLMcV2zxXDV8JRSoVxwA)
          2. [kaggle](https://www.kaggle.com/siboooo/singleimagereflectionremovaldataset)
          
+All codes are in MAIN notebook, the function to generate synthetic images is in GENERATE-SYNTHETIC notebook
+         
 Dir:
 ```
 GAN
